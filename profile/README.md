@@ -14,6 +14,9 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 
+## [![Discord Invite](https://dcbadge.vercel.app/api/server/tEVUKXgbUw?style=flat)](https://discord.gg/tEVUKXgbUw)
+Join the Family! 🤖
+
 ## Who we are
 This is a team, created during the process of Piscine in [42 Porto]() programing school
 
